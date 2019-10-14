@@ -1,10 +1,3 @@
-//纯C++超分辨率重建DRRN --改编--（三）主函数 DRRN
-//https://blog.csdn.net/juebai123/article/details/83150984
-
-// 超分辨率重建（卷积神经网络(DRRN)）
-//
-// 设定参数：文件名、放大倍数
-
 #include <conio.h>
 
 #include <math.h>
